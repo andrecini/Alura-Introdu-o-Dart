@@ -1,3 +1,5 @@
+![Banner](Assets/Banner.svg)
+
 # 📖 Formação Alura: Dart, a linguagem utilizada pelo Flutter
 
 ## 🤔 O que é o Dart? 
